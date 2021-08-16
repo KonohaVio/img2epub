@@ -90,7 +90,7 @@ class Application(tk.Frame):
         self.label_creator = tk.Label(self,text="creator",anchor="w",width=55,font=('Hiragino Sans GB W3', 10)).pack()
         self.et_creator=tk.Entry(self,show=None, width=40,font=('Hiragino Sans GB W3', 12))
         self.et_creator.pack()
-        self.et_creator.insert(0,"KOH")
+        self.et_creator.insert(0,"creator")
 
         self.label_language = tk.Label(self,text="language",anchor="w",width=55,font=('Hiragino Sans GB W3', 10)).pack()
         self.et_language=tk.Entry(self,show=None, width=40,font=('Hiragino Sans GB W3', 12))
@@ -198,7 +198,7 @@ class Application(tk.Frame):
           self.et_title.delete(0,'end')
           self.et_creator.delete(0,'end')
           self.et_title.insert(0,self.img_directory[self.img_directory.rfind("/")+1:])
-          self.et_creator.insert(0,"Konoha")
+          self.et_creator.insert(0,"creator")
         #生成目录结构，复制两个固定文件
         _thread.start_new_thread(self.createDirectoryTree,())
         # self.createDirectoryTree()
