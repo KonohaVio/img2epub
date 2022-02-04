@@ -25,6 +25,7 @@
 ##### 软件或许仍有诸多bug，可以的话请联系我
 
 ##### py源代码环境：python 3.7.0--3.9.0   &&   pip3 install Pillow 9.0.0
+##### 源代码的运行只需要有configuration和resources这两个文件夹即可
 
 ### 制作的书籍经Calibre等专业ePub软件检测合格
 ![image](https://user-images.githubusercontent.com/61352919/152534630-fd571b11-eb4a-4047-a5f0-19f1427bbd37.png)
