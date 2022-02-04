@@ -26,5 +26,15 @@
 
 ##### py源代码环境：python 3.7.0--3.9.0   &&   pip3 install Pillow 9.0.0
 
-### 滚动模式下的效果图 (eboox阅读器)
+### 制作的书籍经Calibre等专业ePub软件检测合格
+![image](https://user-images.githubusercontent.com/61352919/152534630-fd571b11-eb4a-4047-a5f0-19f1427bbd37.png)
+![image](https://user-images.githubusercontent.com/61352919/152534996-1aa2ec1a-8a03-4cf7-80c5-74c3b718bbe6.png)
+![image](https://user-images.githubusercontent.com/61352919/152534952-a26a59df-c07c-40a3-9876-0d1950c4daed.png)
+
+## -
+### iPad横屏模式下双页效果图（kybook3免费版）效果良好
+![VNIJNY0K 6(@0E1T(N0K(7D](https://user-images.githubusercontent.com/61352919/152537687-7b94162c-7a13-4169-bdf9-85a3e74b0981.jpg)
+### iPad竖屏模式下单页效果 (kybook3免费版) 几乎全屏铺满
+![9TTOX5GQLD9L_F7_86~ L26](https://user-images.githubusercontent.com/61352919/152537971-d3c281ab-64c8-4dfe-bb0c-87294ae94178.jpg)
+### 竖屏滚动模式下的效果图 (eboox阅读器) 上下两张图片拼接缝隙（间距）较小
 ![QQ图片20220204023916](https://user-images.githubusercontent.com/61352919/152408465-7753d482-c4bf-49bd-9971-c0f3ef1b4566.png)
